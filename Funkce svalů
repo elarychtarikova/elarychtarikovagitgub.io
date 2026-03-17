@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>Funkce svalů</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+        }
+        nav {
+            background-color: #333;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            margin: 10px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Navigace -->
+<nav>
+    <a href="#funkce">Funkce svalů</a>
+    <a href="#kontrakce">Kontrakce</a>
+    <a href="#podminky">Podmínky stahu</a>
+</nav>
+
+<!-- Obsah -->
+<section id="funkce">
+    <h1>Funkce svalů</h1>
+    <p>
+        Základní vlastností svalové tkáně je schopnost se stahovat (kontrahovat), 
+        což je umožněno speciálními mnohojadernými vláknitými strukturami uloženými 
+        v cytoplazmě všech svalových buněk, myofibrilami.
+    </p>
+</section>
+
+<section id="kontrakce">
+    <h2>Jak probíhá kontrakce</h2>
+    <p>
+        Myofibrily jsou složeny z uspořádaných molekul aktinu a myosinu, mají průměr 
+        20 až 150 mikrometrů a délku 0,5 až 20 cm. Za zvýšené koncentrace vápenatých 
+        iontů a přítomnosti ATP dochází k zasouvání tenkých aktinových vláken mezi 
+        tlustá vlákna myosinová, myofibrila se zkrátí a dojde ke kontrakci.
+    </p>
+    <p>
+        Stah svalu je podkladem pro veškerý svalový pohyb.
+    </p>
+</section>
+
+<section id="podminky">
+    <h2>Podmínky svalového stahu</h2>
+    <p>
+        Svalový stah je důsledkem řetězce chemických reakcí, k jejichž proběhnutí je 
+        potřeba splnění několika podmínek, v první řadě podráždění svalu a dostatečná 
+        zásoba energie ve svalu.
+    </p>
+</section>
+
+</body>
+</html>
